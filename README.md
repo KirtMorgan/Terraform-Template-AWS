@@ -5,14 +5,17 @@ This template makes use of:
 - AWS
 - Variables
 - Scripts
-- Private Subnet Example
-- Public Subnet Example
-- Private Instance Example
-- Public Instance Example
+- Subnets
+- Instances
+- Security groups
+- Route tables
+- Internet gateway
+- Key pair
+- Template files
 
 ## To Begin
 To start run the command `terraform init`
-This will initialise terraform and pull the required plugins for your provider, ie AWS.
+This will initialise Terraform and pull the required plugins for your provider, ie AWS.
 
 ## Terraform Documentation
  Please click [here](https://www.terraform.io/docs/commands/index.html) to view full documentation.
