@@ -10,6 +10,10 @@ This template makes use of:
 - Private Instance Example
 - Public Instance Example
 
+## To Begin
+To start run the command `terraform init`
+This will initialise terraform and pull the required plugins for your provider, ie AWS.
+
 ## Terraform Documentation
  Please click [here](https://www.terraform.io/docs/commands/index.html) to view full documentation.
 
